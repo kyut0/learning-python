@@ -1,4 +1,5 @@
-# cs50p
+# Learning Python 
+## via Harvard's cs50p Online Youtube Series with David Malan
 
 # Table of Contents
 
